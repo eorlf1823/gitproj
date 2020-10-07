@@ -11,7 +11,7 @@ public class ex8 {
 		do{
 			System.out.print(">>");
 			num=s.next();
-		}while(true);
+		}while(!num.equals("exit"));
 			System.out.print("종료합니다.");
 		
 
